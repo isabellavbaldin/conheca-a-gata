@@ -1,6 +1,6 @@
 # Conheça a Gata 🐈
 
-Meu primeiro projeto de página web, desenvolvido para praticar HTML e CSS. Trata-se da minha primeira atividade do curso de Análise e Desenvolvimento de Sistemas feito em 24/08/2026.
+Trata-se do meu primeiro projeto de página web, desenvolvido para praticar HTML e CSS. Feito em 24/08/2026.
 
 ## Sobre o projeto
 
